@@ -1,0 +1,3 @@
+/home/nuha/CLionProjects/RegEx/cmake-build-debug/CMakeFiles/RegEx.dir
+/home/nuha/CLionProjects/RegEx/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nuha/CLionProjects/RegEx/cmake-build-debug/CMakeFiles/rebuild_cache.dir
